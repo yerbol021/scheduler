@@ -1,7 +1,6 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import { waitForElement } from "@testing-library/react";
-import Appointment from "../Appointment";
 import Application from "components/Application";
 import { fireEvent } from "@testing-library/react";
 
